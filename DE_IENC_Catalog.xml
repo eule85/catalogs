@@ -11,7 +11,14 @@
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
-<!--
+ <chart>
+    <number>20</number>
+    <title>Berlin-Spandauer-Schifffahrtskanal (20)</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://www.elwis.de/DE/dynamisch/IENC/File:WW92_2024-07-05_1_12:%20Berlin-Spandauer-Schifffahrtskanal</zipfile_location>
+    <zipfile_datetime>20240705_000000</zipfile_datetime>
+    <zipfile_datetime_iso8601>2024-07-05T08:56:42Z</zipfile_datetime_iso8601>
+  </chart>  
   <chart>
     <number>10</number>
     <title>Landwehrkanal (10)</title>
@@ -348,5 +355,4 @@
     <zipfile_datetime>20240212_114451</zipfile_datetime>
     <zipfile_datetime_iso8601>2024-02-12T11:44:51Z</zipfile_datetime_iso8601>
   </chart>
--->
 </RncProductCatalogChartCatalogs>
